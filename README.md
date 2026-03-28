@@ -1,4 +1,4 @@
-# 👋 Hi, I'm TechX Developer (Founder @TechX-Developer)
+<meta name="google-site-verification" content="VC899Oj_chqnNBzgzibug3t6YhDIklS9tdeVIYcMaqo" /># 👋 Hi, I'm TechX Developer (Founder @TechX-Developer)
 ### 🚀 Building the future with AI, Robotics, and Software Development.
 
 - 🔭 I’m currently working on: **TechX Ecosystem**
